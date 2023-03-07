@@ -1,3 +1,3 @@
 Hello world!
-Some txt.
+Some text.
 New changes!!!
